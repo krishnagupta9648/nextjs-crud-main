@@ -11,7 +11,7 @@ This repository contains a simple Next.js 13 application that demonstrates CRUD 
 
 ## Demo
 
-A live demo of the application is available at https://shakir-nextj13-crud.netlify.app/.
+A live demo of the application is available at nextj13-crud.netlify.app/.
 
 ## Installation
 
