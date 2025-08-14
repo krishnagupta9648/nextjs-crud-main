@@ -9,9 +9,7 @@ This repository contains a simple Next.js 13 application that demonstrates CRUD 
 - Update: Edit the information of any product in the dataset effortlessly.
 - Delete: Remove product from the dataset with a confirmation prompt
 
-## Demo
 
-A live demo of the application is available at nextj13-crud.netlify.app/.
 
 ## Installation
 
